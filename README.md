@@ -1,0 +1,2 @@
+# SvelteSMTH
+Something with svelte
